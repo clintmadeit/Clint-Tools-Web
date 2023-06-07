@@ -29,8 +29,8 @@ Support:        https://finestdevs.com/product-support/
 ******************************************************/
 /*=== Media Query ===*/
 body[data-theme='dark'], .dark-bg, .dark-mode-texts {
-  --bg:                 #1e22918a;
-  --bg-2:                 #1e22918a;
+  --bg:                 #1e2291;
+  --bg-2:                 #1e2291;
   --color-headings:    $white;
   --color-texts:        rgba(255,255,255, 0.7);
   --color-texts-2:        rgba(255,255,255, 1);

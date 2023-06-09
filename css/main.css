@@ -1,14 +1,14 @@
 /*------------------------------------------------------------------
 [Master Stylesheet]
 -------------------------------------------------------------------
-Theme Name:     Shade - Landing Page Template
-Theme URL:      https://05-temp-whiter.netlify.app/
-Author:         grayic
+Theme Name:     Clint Tools - Landing page
+Theme URL:      https://clinttools.clintmadeit.tech/
+Author:         Clintmadeit
 Version:        1.0
-Last change:    25/04/2021
+Last change:    05/06/2023
 Description:    A default stylesheet for Appex - Landing HTML5 Template.
 Primary use:    Business, responsive, bootstrap 5, html5, clean, modern, creative, landing page, app  landing etc.
-Support:        https://finestdevs.com/product-support/
+Support:        https://clintmadeit.tech/support/
 -------------------------------------------------------------------*/
 /*********** CSS TABLE OF CONTENTS *******************
 
@@ -2105,7 +2105,7 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .hero-area-l-17 .content .btn {
-  background: #50E3C2;
+  background: #59D2FE;
   border-radius: 3px;
   min-width: 227px;
   height: 50px;
@@ -2156,7 +2156,7 @@ li.sub-menu--item.nav-item-has-children i {
   color: #0F3D33;
   min-width: 163px;
   height: 50px;
-  background: #50E3C2;
+  background: #59D2FE;
   box-sizing: border-box;
   border-radius: 3px;
   margin-left: 15px;
@@ -2223,7 +2223,7 @@ li.sub-menu--item.nav-item-has-children i {
 
 .feature-area-l-17 .feature-area-l-17-items .single-features .circle-dot-2 i {
   font-size: 10px;
-  color: #50E3C2;
+  color: #59D2FE;
   height: 50px;
   width: 50px;
   line-height: 50px;
@@ -2346,7 +2346,7 @@ li.sub-menu--item.nav-item-has-children i {
 .content-area-l-17-1 .content .btn {
   min-width: 227px;
   height: 50px;
-  background: rgba(80, 227, 194, 0.14);
+  background: #620084;
   mix-blend-mode: normal;
   border-radius: 3px;
   font-family: Inter;
@@ -2355,7 +2355,7 @@ li.sub-menu--item.nav-item-has-children i {
   font-size: 16px;
   line-height: 19px;
   text-align: center;
-  color: #0F3D33;
+  color: #FFFFFF;
   margin-top: 40px;
 }
 
@@ -2425,7 +2425,7 @@ li.sub-menu--item.nav-item-has-children i {
 .content-area-l-17-2 .content .btn {
   min-width: 227px;
   height: 50px;
-  background: rgba(80, 227, 194, 0.14);
+  background: #620084;
   mix-blend-mode: normal;
   border-radius: 3px;
   font-family: Inter;
@@ -2434,7 +2434,7 @@ li.sub-menu--item.nav-item-has-children i {
   font-size: 16px;
   line-height: 19px;
   text-align: center;
-  color: #0F3D33;
+  color: #FFFFFF;
   margin-top: 40px;
 }
 
@@ -2492,7 +2492,7 @@ li.sub-menu--item.nav-item-has-children i {
   line-height: 96px;
   border-radius: 50%;
   text-align: center;
-  color: #50E3C2;
+  color: #59D2FE;
   margin-bottom: 40px;
 }
 
@@ -2663,7 +2663,7 @@ li.sub-menu--item.nav-item-has-children i {
 .pricing-area-l-17 .single-price .price-btn .btn {
   min-width: 227px;
   height: 50px;
-  background: #50E3C2;
+  background: #59D2FE;
   border-radius: 3px;
   font-family: Inter;
   font-style: normal;
@@ -2810,7 +2810,7 @@ li.sub-menu--item.nav-item-has-children i {
   height: 34px;
   top: 3px;
   left: 4px;
-  background: #50E3C2;
+  background: #59D2FE;
   display: block;
   z-index: -1;
 }
@@ -2888,7 +2888,7 @@ li.sub-menu--item.nav-item-has-children i {
 .pricing-area-l-17 .popular-pricing.popular-pricing-3:before {
   height: 3px;
   top: -3px;
-  background: #50E3C2;
+  background: #59D2FE;
 }
 
 /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      
@@ -3058,7 +3058,7 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .cta-area-l-17 .btn {
-  background: #50E3C2;
+  background: #59D2FE;
   border-radius: 3px;
   min-width: 227px;
   height: 50px;
@@ -3075,7 +3075,7 @@ li.sub-menu--item.nav-item-has-children i {
             Footer Area-L-17
           <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .footer-area-l-17 {
-  background: linear-gradient(-45deg, #152649 0%, #4f525c 100%);
+  background: linear-gradient(-45deg, #1E2291 0%, #620084 100%);
   padding-top: 60px;
   padding-bottom: 35px;
 }

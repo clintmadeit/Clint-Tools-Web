@@ -227,6 +227,9 @@ div#loading {
 div#loading img {
   z-index: 9999;
 }
+.overflow-x-scroll {
+  overflow-x: scroll;
+}
 
 .preloader {
   display: flex;
@@ -2928,6 +2931,24 @@ li.sub-menu--item.nav-item-has-children i {
 /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      
             Testimonial Area-L-17
           <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+.scrollable-cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: flex-start;
+  overflow-x: auto;
+  overflow: scroll;
+  overflow-y: hidden;
+  overscroll-behavior-x: auto;
+  height: auto;
+  margin: 0 auto;
+  padding: 0 0 0 0;
+  -webkit-overflow-scrolling: touch;
+}
+
+
 .testimonial-area-l-17 {
   padding-bottom: 60px;
 }
@@ -2940,6 +2961,8 @@ li.sub-menu--item.nav-item-has-children i {
 
 .testimonial-area-l-17 .testimonial-card {
   padding: 20px 30px 37px 30px;
+
+
 }
 
 @media (min-width: 768px) {
@@ -2951,6 +2974,7 @@ li.sub-menu--item.nav-item-has-children i {
 @media (min-width: 992px) {
   .testimonial-area-l-17 .testimonial-card {
     padding: 20px 30px 37px 30px;
+
   }
 }
 
